@@ -74,16 +74,6 @@ Score: 6/0 (0.1)
 * Lost by 3 wickets
 * Match tied
 
-## Future Improvements
-
-* Difficulty levels (Easy / Medium / Hard)
-* Super Over in case of tie
-* Player name input
-* Replay option
-* Full scoreboard
-* Strike rotation system
-* Better AI for computer batting
-
 ## Author
 
 **Vaibhav Kumar**  
